@@ -3,7 +3,7 @@ This is a web app used to upload images into a database.
 
 Commands to get you started in your local machine:
 
-# Create python virtual environment in project directory:
+## Create python virtual environment in project directory:
 python -m venv <env name>
 cd <env-name>
 
